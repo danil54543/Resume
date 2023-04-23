@@ -11,7 +11,7 @@ body {
     flex-direction: row-reverse;
     width: 1200px;
     margin: 0 auto;
-    background: #FFFFFF;
+    background: #1E1E1E;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -26,7 +26,7 @@ body {
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
-    color: #000000;
+    color: #FFFFFF;
     margin: 0 0 8 0;
 }
 
@@ -39,7 +39,7 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
-    color: #000000;
+    color: #E2F56D;
     margin: 0 0 18px 0;
 }
 
@@ -48,7 +48,7 @@ body {
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
-    color: #000000;
+    color: #FFFFFF;
     margin: 0 0 28px 0;
 }
 
@@ -57,7 +57,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #B9B9B9;
 }
 
 .about-me-container {
@@ -71,16 +71,16 @@ body {
     font-size: 14px;
     line-height: 24px;
     text-decoration-line: underline;
-    color: #005FFF;
+    color: #6A8CC5;
 
 }
 
 .project-item {
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .project-list {
@@ -93,7 +93,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #B9B9B9;
 }
 
 .projects-container {
@@ -115,7 +115,7 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
-    color: #000000;
+    color: #FFFFFF;
     margin: 0;
 }
 
@@ -124,11 +124,15 @@ body {
 }
 
 .work-experiense-duties {
+    color: #E2F56D;
+
+}
+.work-list-item{
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #B9B9B9;
 }
 
 .work-experiense-duties-list {
@@ -154,7 +158,7 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
-    color: #000000;
+    color: #B9B9B9;
 }
 .education-container-item{
     margin-bottom: 40px;
@@ -167,11 +171,11 @@ body {
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #696666;
     margin: 12px 0 8px 0;
 }
 .period-line{
-    color: #000000;
+    color: #696666;
 }
 /* Два останні класи я зробів 
     загальними для всіх дат переніс 
@@ -180,7 +184,7 @@ body {
 /* Sidebar */
 
 .sidebar {
-    background: #E0EBFE;
+    background: #3F4041;
     width: 370px;
 
 }
@@ -201,7 +205,7 @@ body {
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
-    color: #161D2A;
+    color: #FFFFFF;
     margin-bottom: 8px;
 }
 
@@ -220,7 +224,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #161D2A;
+    color: #B9B9B9;
 }
 
 .contacts-email {
@@ -229,7 +233,7 @@ body {
     font-size: 14px;
     line-height: 24px;
     text-decoration-line: underline;
-    color: #2979FF;
+    color: #6A8CC5;
 
 }
 
@@ -245,10 +249,10 @@ body {
 }
 
 .skills-list-item {
-    color: #6D9BF5;
+    color: #E2F56D;
 }
 
 .skills-list-text {
-    color: #161D2A;
+    color: #B9B9B9;
 }
 
